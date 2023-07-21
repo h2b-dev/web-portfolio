@@ -1,0 +1,12 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/h2b-dev/web-portfolio.git",
+  "author": "h2b <h2b.dev.studio@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
